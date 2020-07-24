@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LhpDc4H6lt181glJoVRxZVK4UpkQqUVfGVLpVEfVfuOuWdt42JdocQxsfE01yLNzRj7tzm14zhPPp/hQMDDWKg==",
+  "dgSpecHash": "NmTFNv94i6xgdooO6YiNg+2ckq3i36cz4BNnAYpEyLSjGRV00pgpHr9+0K/3nAkVqqgTy9ShzLnzyer9DMMoJg==",
   "success": true,
-  "projectFilePath": "/Users/aika/Documents/HealthySnacks-master/HealthySnacks.DataAccess/HealthySnacks.DataAccess.csproj",
+  "projectFilePath": "/Users/aika/Documents/GitHub/HealthySnacksNew/HealthySnacks.DataAccess/HealthySnacks.DataAccess.csproj",
   "expectedPackageFiles": [
     "/Users/aika/.nuget/packages/entityframework/6.3.0/entityframework.6.3.0.nupkg.sha512",
     "/Users/aika/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.1/microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",

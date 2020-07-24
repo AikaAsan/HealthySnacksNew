@@ -2118,11 +2118,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/aika/Documents/HealthySnacks-master/HealthySnacks.DataAccess/HealthySnacks.DataAccess.csproj",
+      "projectUniqueName": "/Users/aika/Documents/GitHub/HealthySnacksNew/HealthySnacks.DataAccess/HealthySnacks.DataAccess.csproj",
       "projectName": "HealthySnacks.DataAccess",
-      "projectPath": "/Users/aika/Documents/HealthySnacks-master/HealthySnacks.DataAccess/HealthySnacks.DataAccess.csproj",
+      "projectPath": "/Users/aika/Documents/GitHub/HealthySnacksNew/HealthySnacks.DataAccess/HealthySnacks.DataAccess.csproj",
       "packagesPath": "/Users/aika/.nuget/packages/",
-      "outputPath": "/Users/aika/Documents/HealthySnacks-master/HealthySnacks.DataAccess/obj/",
+      "outputPath": "/Users/aika/Documents/GitHub/HealthySnacksNew/HealthySnacks.DataAccess/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/aika/.config/NuGet/NuGet.Config"

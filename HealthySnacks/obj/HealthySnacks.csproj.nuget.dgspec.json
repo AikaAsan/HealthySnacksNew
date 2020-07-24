@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/aika/Documents/HealthySnacks-master/HealthySnacks/HealthySnacks.csproj": {}
+    "/Users/aika/Documents/GitHub/HealthySnacksNew/HealthySnacks/HealthySnacks.csproj": {}
   },
   "projects": {
-    "/Users/aika/Documents/HealthySnacks-master/HealthySnacks.DataAccess/HealthySnacks.DataAccess.csproj": {
+    "/Users/aika/Documents/GitHub/HealthySnacksNew/HealthySnacks.DataAccess/HealthySnacks.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/aika/Documents/HealthySnacks-master/HealthySnacks.DataAccess/HealthySnacks.DataAccess.csproj",
+        "projectUniqueName": "/Users/aika/Documents/GitHub/HealthySnacksNew/HealthySnacks.DataAccess/HealthySnacks.DataAccess.csproj",
         "projectName": "HealthySnacks.DataAccess",
-        "projectPath": "/Users/aika/Documents/HealthySnacks-master/HealthySnacks.DataAccess/HealthySnacks.DataAccess.csproj",
+        "projectPath": "/Users/aika/Documents/GitHub/HealthySnacksNew/HealthySnacks.DataAccess/HealthySnacks.DataAccess.csproj",
         "packagesPath": "/Users/aika/.nuget/packages/",
-        "outputPath": "/Users/aika/Documents/HealthySnacks-master/HealthySnacks.DataAccess/obj/",
+        "outputPath": "/Users/aika/Documents/GitHub/HealthySnacksNew/HealthySnacks.DataAccess/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/aika/.config/NuGet/NuGet.Config"
@@ -64,14 +64,14 @@
         }
       }
     },
-    "/Users/aika/Documents/HealthySnacks-master/HealthySnacks/HealthySnacks.csproj": {
+    "/Users/aika/Documents/GitHub/HealthySnacksNew/HealthySnacks/HealthySnacks.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/aika/Documents/HealthySnacks-master/HealthySnacks/HealthySnacks.csproj",
+        "projectUniqueName": "/Users/aika/Documents/GitHub/HealthySnacksNew/HealthySnacks/HealthySnacks.csproj",
         "projectName": "HealthySnacks",
-        "projectPath": "/Users/aika/Documents/HealthySnacks-master/HealthySnacks/HealthySnacks.csproj",
+        "projectPath": "/Users/aika/Documents/GitHub/HealthySnacksNew/HealthySnacks/HealthySnacks.csproj",
         "packagesPath": "/Users/aika/.nuget/packages/",
-        "outputPath": "/Users/aika/Documents/HealthySnacks-master/HealthySnacks/obj/",
+        "outputPath": "/Users/aika/Documents/GitHub/HealthySnacksNew/HealthySnacks/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/aika/.config/NuGet/NuGet.Config"
@@ -85,8 +85,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "/Users/aika/Documents/HealthySnacks-master/HealthySnacks.DataAccess/HealthySnacks.DataAccess.csproj": {
-                "projectPath": "/Users/aika/Documents/HealthySnacks-master/HealthySnacks.DataAccess/HealthySnacks.DataAccess.csproj"
+              "/Users/aika/Documents/GitHub/HealthySnacksNew/HealthySnacks.DataAccess/HealthySnacks.DataAccess.csproj": {
+                "projectPath": "/Users/aika/Documents/GitHub/HealthySnacksNew/HealthySnacks.DataAccess/HealthySnacks.DataAccess.csproj"
               }
             }
           }

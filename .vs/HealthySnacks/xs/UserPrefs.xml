@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{26088778-8588-4EF9-AE07-5D487AC2F08C}|Default">
+  <MonoDevelop.Ide.ItemProperties.HealthySnacks PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HealthySnacks/Controllers/HealthySnacksController.cs">
+    <Files>
+      <File FileName="HealthySnacks/Controllers/HealthySnacksController.cs" Line="29" Column="1" />
+      <File FileName="HealthySnacks/Mappers/Mapper.cs" Line="33" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HealthySnacks" expanded="True">
+            <Node name="HealthySnacks" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="HealthySnacksController.cs" selected="True" />
+              </Node>
+              <Node name="Mappers" expanded="True" />
+            </Node>
+            <Node name="HealthySnacks.DataAccess" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
