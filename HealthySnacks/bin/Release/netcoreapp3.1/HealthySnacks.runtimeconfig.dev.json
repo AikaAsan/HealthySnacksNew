@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/aika/.dotnet/store/|arch|/|tfm|",
+      "/Users/aika/.nuget/packages"
+    ]
+  }
+}
