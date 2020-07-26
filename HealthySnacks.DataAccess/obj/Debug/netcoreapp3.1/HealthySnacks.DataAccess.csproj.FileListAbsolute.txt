@@ -7,3 +7,12 @@
 /Users/aika/Downloads/HealthySnacks-master/HealthySnacks.DataAccess/obj/Debug/netcoreapp3.1/HealthySnacks.DataAccess.csproj.CoreCompileInputs.cache
 /Users/aika/Downloads/HealthySnacks-master/HealthySnacks.DataAccess/obj/Debug/netcoreapp3.1/HealthySnacks.DataAccess.dll
 /Users/aika/Downloads/HealthySnacks-master/HealthySnacks.DataAccess/obj/Debug/netcoreapp3.1/HealthySnacks.DataAccess.pdb
+/Users/aika/Documents/GitHub/HealthySnacksNew/HealthySnacks.DataAccess/bin/Debug/netcoreapp3.1/HealthySnacks.DataAccess.deps.json
+/Users/aika/Documents/GitHub/HealthySnacksNew/HealthySnacks.DataAccess/bin/Debug/netcoreapp3.1/HealthySnacks.DataAccess.dll
+/Users/aika/Documents/GitHub/HealthySnacksNew/HealthySnacks.DataAccess/bin/Debug/netcoreapp3.1/HealthySnacks.DataAccess.pdb
+/Users/aika/Documents/GitHub/HealthySnacksNew/HealthySnacks.DataAccess/obj/Debug/netcoreapp3.1/HealthySnacks.DataAccess.csprojAssemblyReference.cache
+/Users/aika/Documents/GitHub/HealthySnacksNew/HealthySnacks.DataAccess/obj/Debug/netcoreapp3.1/HealthySnacks.DataAccess.AssemblyInfoInputs.cache
+/Users/aika/Documents/GitHub/HealthySnacksNew/HealthySnacks.DataAccess/obj/Debug/netcoreapp3.1/HealthySnacks.DataAccess.AssemblyInfo.cs
+/Users/aika/Documents/GitHub/HealthySnacksNew/HealthySnacks.DataAccess/obj/Debug/netcoreapp3.1/HealthySnacks.DataAccess.csproj.CoreCompileInputs.cache
+/Users/aika/Documents/GitHub/HealthySnacksNew/HealthySnacks.DataAccess/obj/Debug/netcoreapp3.1/HealthySnacks.DataAccess.dll
+/Users/aika/Documents/GitHub/HealthySnacksNew/HealthySnacks.DataAccess/obj/Debug/netcoreapp3.1/HealthySnacks.DataAccess.pdb
