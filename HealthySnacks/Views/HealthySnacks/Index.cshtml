@@ -1,8 +1,8 @@
 ﻿@using HealthySnacks.Models
-@model List<HealthySnacks>
+@model List<HealthySnacksModel>
 
 @{
-    ViewData["Title"] = "List Healthy Snacks"; @* It says there is something wrong with this line *@
+   
 }
 
     <div>
@@ -16,6 +16,7 @@
         <div>
             <h4>Name: @HealthySnacks.Name</h4>
             <p>Price: @HealthySnacks.Price</p>
+            <img src="@HealthySnacks.ImageUrl"/>
         </div>
     }
 

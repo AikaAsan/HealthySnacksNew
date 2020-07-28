@@ -10,6 +10,6 @@ namespace HealthySnacks.Models
 
         public string Description { get; set; } // short description for each category
 
-        public List<HealthySnacks> Snacks { get; set; }
+        public List<HealthySnacksModel> Snacks { get; set; }
     }
 }

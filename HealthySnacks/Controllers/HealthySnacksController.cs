@@ -2,7 +2,8 @@
 using Microsoft.AspNetCore.Mvc;
 using HealthySnacks.Models;
 using HealthySnacks.DataAccess.Entities;
-
+using HealthySnacks.ControllersMappers;
+using System.Collections.Generic;
 
 namespace HealthySnacks.Controllers
 {
@@ -16,6 +17,7 @@ namespace HealthySnacks.Controllers
         public HealthySnacksController()
         {
             healthySnacksRepository = new HealthySnacksRepository();
+            _mapper = new Mapper();
 
         }
 
@@ -23,7 +25,17 @@ namespace HealthySnacks.Controllers
         {
             var healthySnacks = healthySnacksRepository.GetHealthySnacks();
 
-            return View();
+            List<HealthySnacksModel> healthySnacksModels = new List<HealthySnacksModel>();
+
+            foreach (var healthySnack in healthySnacks)
+            {
+
+                var healthySnackModel = _mapper.healthySnacksModel(healthySnack);
+                healthySnacksModels.Add(healthySnackModel);
+            }
+
+            return View(healthySnacksModels);
+
         }
     }
 }

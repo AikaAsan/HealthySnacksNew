@@ -1,7 +1,7 @@
 ﻿using System;
 namespace HealthySnacks.Models
 {
-    public class HealthySnacks
+    public class HealthySnacksModel
     {
         public int Id { get; set; } //identifier for HealthySnack class
 
@@ -18,7 +18,7 @@ namespace HealthySnacks.Models
         public virtual Category Category { get; set; }
 
 
-        public HealthySnacks()
+        public HealthySnacksModel()
         {
         }
     }
