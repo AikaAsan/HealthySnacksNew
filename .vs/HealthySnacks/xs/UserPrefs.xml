@@ -1,15 +1,15 @@
 ﻿<Properties StartupConfiguration="{26088778-8588-4EF9-AE07-5D487AC2F08C}|Default">
   <MonoDevelop.Ide.ItemProperties.HealthySnacks PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="HealthySnacks/Views/HealthySnacks/Index.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HealthySnacks/wwwroot/css/HomePageStyle.css">
     <Files>
-      <File FileName="HealthySnacks/Controllers/HealthySnacksController.cs" Line="5" Column="40" />
-      <File FileName="HealthySnacks/Mappers/Mapper.cs" Line="37" Column="34" />
-      <File FileName="HealthySnacks/Views/Shared/_Layout.cshtml" Line="48" Column="1" />
-      <File FileName="HealthySnacks/Views/Home/Index.cshtml" Line="23" Column="21" />
-      <File FileName="HealthySnacks/wwwroot/css/HomePageStyle.css" Line="8" Column="1" />
-      <File FileName="HealthySnacks/Models/HealthySnacks.cs" Line="22" Column="10" />
-      <File FileName="HealthySnacks/Models/Category.cs" Line="15" Column="2" />
-      <File FileName="HealthySnacks/Views/HealthySnacks/Index.cshtml" Line="4" Column="3" />
+      <File FileName="HealthySnacks/Controllers/HealthySnacksController.cs" Line="29" Column="1" />
+      <File FileName="HealthySnacks/Mappers/Mapper.cs" />
+      <File FileName="HealthySnacks/Views/Shared/_Layout.cshtml" />
+      <File FileName="HealthySnacks/Views/Home/Index.cshtml" Line="25" Column="72" />
+      <File FileName="HealthySnacks/wwwroot/css/HomePageStyle.css" Line="4" Column="14" />
+      <File FileName="HealthySnacks/Views/HealthySnacks/Index.cshtml" Line="11" Column="1" />
+      <File FileName="HealthySnacks/Startup.cs" Line="14" Column="2" />
+      <File FileName="HealthySnacks/Program.cs" Line="19" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -20,15 +20,19 @@
               <Node name="Mappers" expanded="True" />
               <Node name="Models" expanded="True" />
               <Node name="Views" expanded="True">
-                <Node name="HealthySnacks" expanded="True">
-                  <Node name="Index.cshtml" selected="True" />
-                </Node>
+                <Node name="HealthySnacks" expanded="True" />
                 <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
               </Node>
               <Node name="wwwroot" expanded="True">
                 <Node name="css" expanded="True" />
-                <Node name="images" expanded="True" />
+                <Node name="images" expanded="True">
+                  <Node name="FruitLeatherAssorted copy.jpg" selected="True" />
+                </Node>
               </Node>
+            </Node>
+            <Node name="HealthySnacks.DataAccess" expanded="True">
+              <Node name="Entities" expanded="True" />
             </Node>
           </Node>
         </State>

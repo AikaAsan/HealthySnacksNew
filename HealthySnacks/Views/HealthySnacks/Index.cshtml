@@ -13,11 +13,13 @@
 @{
     foreach (var HealthySnacks in Model)
     {
-        <div>
-            <h4>Name: @HealthySnacks.Name</h4>
-            <p>Price: @HealthySnacks.Price</p>
-            <img src="@HealthySnacks.ImageUrl"/>
-        </div>
+    <div>
+        <h4>Name: @HealthySnacks.Name</h4>
+        <img src="@HealthySnacks.ImageUrl" />
+        <p>@HealthySnacks.Description</p>
+        <p>Price: @HealthySnacks.Price</p>
+
+    </div>
     }
 
 }

@@ -8,11 +8,14 @@ using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using Microsoft.Extensions.Options;
 
 namespace HealthySnacks
 {
+
     public class Startup
     {
+
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
@@ -53,5 +56,12 @@ namespace HealthySnacks
                     pattern: "{controller=Home}/{action=Index}/{id?}");
             });
         }
+    }
+}
+
+namespace services
+{
+    class AddMvc
+    {
     }
 }

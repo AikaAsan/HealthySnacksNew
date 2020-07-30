@@ -1,13 +1,17 @@
 ﻿
 
 
+.carousel-item,
+.carousel-inner,
+.carousel-inner img {
+    height: 100%;
+    width: auto;
+}
+
+
 .carousel-item {
-    height: 400px;
-    width: 400px;
+    width: 100%;
+    height: auto;
 }
 
 
-img {
-    height: 400px;
-    width: 400px;
-}
