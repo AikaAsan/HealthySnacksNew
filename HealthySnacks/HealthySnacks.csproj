@@ -7,10 +7,11 @@
   <ItemGroup>
     <Folder Include="Views\HealthySnacks\" />
     <Folder Include="Views\Gallery\" />
-    <Folder Include="Views\Reviews\" />
+    <Folder Include="Views\ContactUs\" />
     <Folder Include="Interfaces\" />
     <Folder Include="Mappers\" />
     <Folder Include="wwwroot\images\" />
+    <Folder Include="Views\AboutUs\" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="System.Data.SQLite" Version="1.0.113.1" />

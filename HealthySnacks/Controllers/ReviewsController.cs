@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace HealthySnacks.Controllers
 {
-    public class ReviewsController : Controller
+    public class ContactUsController : Controller
     {
         // GET: /<controller>/
         public IActionResult Index()
