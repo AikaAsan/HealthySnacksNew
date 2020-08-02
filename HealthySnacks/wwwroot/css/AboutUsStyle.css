@@ -1,0 +1,29 @@
+﻿
+
+
+.about-section {
+    text-align: center;
+}
+
+
+.container-fluid {
+    text-align: center;
+    
+}
+
+
+.card {
+    display: block;
+    border: none;
+}
+
+
+h2 {
+    padding-bottom: 30px;
+}
+
+
+img {
+    width: 50%;
+    text-align: center;
+}
