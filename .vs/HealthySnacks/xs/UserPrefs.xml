@@ -1,13 +1,15 @@
 ﻿<Properties StartupConfiguration="{26088778-8588-4EF9-AE07-5D487AC2F08C}|Default">
   <MonoDevelop.Ide.ItemProperties.HealthySnacks PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="HealthySnacks.DataAccess/Repositories/IHealthySnacksRepository.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HealthySnacks/Models/HealthySnacksModel.cs">
     <Files>
-      <File FileName="HealthySnacks/Views/Shared/_Layout.cshtml" Line="34" Column="56" />
+      <File FileName="HealthySnacks/Views/Shared/_Layout.cshtml" Line="25" Column="90" />
       <File FileName="HealthySnacks/Views/Home/Index.cshtml" />
-      <File FileName="HealthySnacks/Views/AboutUs/Index.cshtml" />
+      <File FileName="HealthySnacks/Views/AboutUs/Index.cshtml" Line="17" Column="7" />
       <File FileName="HealthySnacks/Views/ContactUs/Index.cshtml" />
-      <File FileName="HealthySnacks.DataAccess/Repositories/HealthySnacksRepository.cs" Line="17" Column="1" />
-      <File FileName="HealthySnacks.DataAccess/Repositories/IHealthySnacksRepository.cs" Line="1" Column="1" />
+      <File FileName="HealthySnacks.DataAccess/Repositories/HealthySnacksRepository.cs" />
+      <File FileName="HealthySnacks.DataAccess/Repositories/IHealthySnacksRepository.cs" />
+      <File FileName="HealthySnacks/Views/HealthySnacks/Index.cshtml" Line="24" Column="1" />
+      <File FileName="HealthySnacks/Models/HealthySnacksModel.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -16,7 +18,9 @@
             <Node name="HealthySnacks" expanded="True">
               <Node name="Controllers" expanded="True" />
               <Node name="Mappers" expanded="True" />
-              <Node name="Models" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="HealthySnacksModel.cs" selected="True" />
+              </Node>
               <Node name="Views" expanded="True">
                 <Node name="AboutUs" expanded="True" />
                 <Node name="ContactUs" expanded="True" />
@@ -27,9 +31,7 @@
             </Node>
             <Node name="HealthySnacks.DataAccess" expanded="True">
               <Node name="Entities" expanded="True" />
-              <Node name="Repositories" expanded="True">
-                <Node name="IHealthySnacksRepository.cs" selected="True" />
-              </Node>
+              <Node name="Repositories" expanded="True" />
             </Node>
           </Node>
         </State>
