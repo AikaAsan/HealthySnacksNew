@@ -17,6 +17,7 @@ namespace HealthySnacks.ControllersMappers
         healthySnacksModel.Price = healthySnacks.Price;
         healthySnacksModel.ImageUrl = healthySnacks.ImageUrl;
         healthySnacksModel.CategoryId = healthySnacks.CategoryId;
+        healthySnacksModel.Ingredients = healthySnacks.Ingredients;
 
         return healthySnacksModel;
 
@@ -24,14 +25,15 @@ namespace HealthySnacks.ControllersMappers
 
      public DataAccess.Entities.HealthySnacks MapToHealthySnacks(HealthySnacksModel healthySnacksModel)
     {
-        var healthySnacks = new DataAccess.Entities.HealthySnacks
-        {
-            Id = healthySnacksModel.Id,
-            Name = healthySnacksModel.Name,
-            Description = healthySnacksModel.Description,
-            Price = healthySnacksModel.Price,
-            ImageUrl = healthySnacksModel.ImageUrl,
-            CategoryId = healthySnacksModel.CategoryId
+            var healthySnacks = new DataAccess.Entities.HealthySnacks
+            {
+                Id = healthySnacksModel.Id,
+                Name = healthySnacksModel.Name,
+                Description = healthySnacksModel.Description,
+                Price = healthySnacksModel.Price,
+                ImageUrl = healthySnacksModel.ImageUrl,
+                CategoryId = healthySnacksModel.CategoryId,
+                Ingredients = healthySnacksModel.Ingredients
         };
 
             return healthySnacks;
