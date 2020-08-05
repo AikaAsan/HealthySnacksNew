@@ -1,6 +1,6 @@
 ﻿<Properties StartupConfiguration="{26088778-8588-4EF9-AE07-5D487AC2F08C}|Default">
   <MonoDevelop.Ide.ItemProperties.HealthySnacks PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="HealthySnacks.DataAccess/DatabaseContext.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HealthySnacks.DataAccess/Repositories/HealthySnacksRepository.cs">
     <Files>
       <File FileName="HealthySnacks/Views/Shared/_Layout.cshtml" Line="25" Column="90" />
       <File FileName="HealthySnacks/Views/Home/Index.cshtml" />
@@ -8,25 +8,31 @@
       <File FileName="HealthySnacks/Views/ContactUs/Index.cshtml" />
       <File FileName="HealthySnacks.DataAccess/Repositories/HealthySnacksRepository.cs" Line="17" Column="1" />
       <File FileName="HealthySnacks.DataAccess/Repositories/IHealthySnacksRepository.cs" Line="1" Column="1" />
-      <File FileName="HealthySnacks/Views/HealthySnacks/Index.cshtml" />
+      <File FileName="HealthySnacks/Views/HealthySnacks/Index.cshtml" Line="22" Column="1" />
       <File FileName="HealthySnacks/Models/HealthySnacksModel.cs" Line="24" Column="10" />
-      <File FileName="HealthySnacks/Controllers/HealthySnacksController.cs" />
+      <File FileName="HealthySnacks/Controllers/HealthySnacksController.cs" Line="1" Column="1" />
       <File FileName="HealthySnacks/Mappers/Mapper.cs" />
       <File FileName="HealthySnacks.DataAccess/Entities/HealhtySnacks.cs" Line="47" Column="1" />
-      <File FileName="HealthySnacks.DataAccess/DatabaseContext.cs" Line="1" Column="1" />
+      <File FileName="HealthySnacks.DataAccess/DatabaseContext.cs" Line="39" Column="7" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="HealthySnacks" expanded="True">
             <Node name="HealthySnacks" expanded="True">
+              <Node name="Controllers" expanded="True" />
               <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="HealthySnacks" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="images" expanded="True" />
+                <Node name="js" expanded="True" />
+              </Node>
             </Node>
             <Node name="HealthySnacks.DataAccess" expanded="True">
-              <Node name="Entities" expanded="True" />
-              <Node name="Repositories" expanded="True" />
-              <Node name="SQlite" expanded="True">
-                <Node name="HealthySnacks.sqlite3.sqbpro" selected="True" />
+              <Node name="Repositories" expanded="True">
+                <Node name="HealthySnacksRepository.cs" selected="True" />
               </Node>
             </Node>
           </Node>

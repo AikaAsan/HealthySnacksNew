@@ -6,7 +6,6 @@
 
   <ItemGroup>
     <Folder Include="Views\HealthySnacks\" />
-    <Folder Include="Views\Gallery\" />
     <Folder Include="Views\ContactUs\" />
     <Folder Include="Interfaces\" />
     <Folder Include="Mappers\" />
