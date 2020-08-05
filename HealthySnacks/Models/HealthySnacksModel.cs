@@ -15,6 +15,8 @@ namespace HealthySnacks.Models
 
         public int CategoryId { get; set; } //to create relations in the DB
 
+        public string Ingredients { get; set; }
+
         public virtual Category Category { get; set; }
 
 

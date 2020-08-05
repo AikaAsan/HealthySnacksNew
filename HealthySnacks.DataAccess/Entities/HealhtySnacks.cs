@@ -39,6 +39,12 @@ namespace HealthySnacks.DataAccess.Entities
         
         public int CategoryId { get; set; }
 
+
+        [Column ("Ingredients")]
+
+        public string Ingredients { get; set; }
+
+
        //[Column("Category")]
        // [Key]
        // public virtual Category Category { get; set; }
