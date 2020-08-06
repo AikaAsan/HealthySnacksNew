@@ -5,22 +5,26 @@
    
 }
 
-    <div>
-        <h2>The Healthy Snacks</h2>
-    </div>
+    <body style=" background-color: #EEF8EF">
+        <div>
+            <h2>The Healthy Snacks</h2>
+        </div>
 
 
-@{
-    foreach (var HealthySnacks in Model)
-    {
-    <div>
-        <h4>Name: @HealthySnacks.Name</h4>
-        <img src="@HealthySnacks.ImageUrl" />
-        <p>@HealthySnacks.Description</p>
-        <p><b>Price:</b> @HealthySnacks.Price dollars</p>
-        <p><b>Ingredients:</b> @HealthySnacks.Ingredients</p>
+        @{
+            foreach (var HealthySnacks in Model)
+            {
+                <div>
+                    <h4> @HealthySnacks.Name</h4>
+                    <img src="@HealthySnacks.ImageUrl" />
+                    <p>@HealthySnacks.Description</p>
+                    <p><b>Price:</b> @HealthySnacks.Price dollars</p>
+                    <p><b>Ingredients:</b> @HealthySnacks.Ingredients</p>
 
-    </div>
-    }
+                </div>
+            }
 
-}
+        }
+
+
+    </body>
