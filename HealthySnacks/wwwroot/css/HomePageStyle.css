@@ -1,6 +1,8 @@
 ﻿
 
-
+body, text-center, carousel slide {
+    background-color: #EEF8EF;
+}
 .carousel-item,
 .carousel-inner,
 .carousel-inner img {

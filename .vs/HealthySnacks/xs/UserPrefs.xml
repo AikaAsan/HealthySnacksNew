@@ -1,40 +1,37 @@
 ﻿<Properties StartupConfiguration="{26088778-8588-4EF9-AE07-5D487AC2F08C}|Default">
   <MonoDevelop.Ide.ItemProperties.HealthySnacks PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="HealthySnacks/Views/AboutUs/Index.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HealthySnacks.DataAccess/Repositories/HealthySnacksRepository.cs">
     <Files>
-      <File FileName="HealthySnacks/Views/Shared/_Layout.cshtml" Line="25" Column="90" />
-      <File FileName="HealthySnacks/Views/Home/Index.cshtml" />
-      <File FileName="HealthySnacks/wwwroot/css/HomePageStyle.css" />
-      <File FileName="HealthySnacks/Views/AboutUs/Index.cshtml" Line="32" Column="7" />
-      <File FileName="HealthySnacks/wwwroot/css/AboutUsStyle.css" Line="22" Column="22" />
+      <File FileName="HealthySnacks/Views/Home/Index.cshtml" Line="19" Column="46" />
+      <File FileName="HealthySnacks/wwwroot/css/HomePageStyle.css" Line="7" Column="17" />
+      <File FileName="HealthySnacks/Views/AboutUs/Index.cshtml" Line="33" Column="8" />
+      <File FileName="HealthySnacks/wwwroot/css/AboutUsStyle.css" Line="3" Column="5" />
       <File FileName="HealthySnacks/Views/ContactUs/Index.cshtml" />
-      <File FileName="HealthySnacks.DataAccess/Repositories/HealthySnacksRepository.cs" />
-      <File FileName="HealthySnacks/Views/HealthySnacks/Index.cshtml" />
-      <File FileName="HealthySnacks/Models/HealthySnacksModel.cs" />
+      <File FileName="HealthySnacks.DataAccess/Repositories/HealthySnacksRepository.cs" Line="17" Column="1" />
+      <File FileName="HealthySnacks/Views/Shared/_Layout.cshtml" Line="25" Column="90" />
+      <File FileName="HealthySnacks/wwwroot/css/site.css" Line="12" Column="4" />
+      <File FileName="HealthySnacks/Controllers/AboutUsController.cs" Line="1" Column="1" />
+      <File FileName="HealthySnacks/Controllers/HealthySnacksController.cs" Line="1" Column="1" />
+      <File FileName="HealthySnacks/Models/HealthySnacksModel.cs" Line="1" Column="1" />
+      <File FileName="HealthySnacks/Views/HealthySnacks/Index.cshtml" Line="1" Column="1" />
+      <File FileName="HealthySnacks/Mappers/Mapper.cs" Line="1" Column="1" />
+      <File FileName="HealthySnacks.DataAccess/Repositories/IHealthySnacksRepository.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="HealthySnacks" expanded="True">
             <Node name="HealthySnacks" expanded="True">
-              <Node name="Controllers" expanded="True" />
               <Node name="Mappers" expanded="True" />
               <Node name="Models" expanded="True" />
-              <Node name="Views" expanded="True">
-                <Node name="AboutUs" expanded="True">
-                  <Node name="Index.cshtml" selected="True" />
-                </Node>
-                <Node name="ContactUs" expanded="True" />
-                <Node name="HealthySnacks" expanded="True" />
-                <Node name="Home" expanded="True" />
-              </Node>
               <Node name="wwwroot" expanded="True">
                 <Node name="css" expanded="True" />
-                <Node name="js" expanded="True" />
               </Node>
             </Node>
             <Node name="HealthySnacks.DataAccess" expanded="True">
-              <Node name="Repositories" expanded="True" />
+              <Node name="Repositories" expanded="True">
+                <Node name="HealthySnacksRepository.cs" selected="True" />
+              </Node>
             </Node>
           </Node>
         </State>

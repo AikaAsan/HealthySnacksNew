@@ -1,5 +1,7 @@
 ﻿
-
+body, .container-fliud, .card {
+    background-color: #EEF8EF;
+}
 
 .about-section {
     text-align: center;
@@ -17,6 +19,10 @@
     border: none;
 }
 
+
+h1 {
+    padding-bottom: 30px;
+}
 
 h2 {
     text-align: center;
