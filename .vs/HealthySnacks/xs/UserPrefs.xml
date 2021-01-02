@@ -6,7 +6,7 @@
       <File FileName="HealthySnacks/Models/HealthySnacksModel.cs" />
       <File FileName="HealthySnacks/Views/HealthySnacks/Index.cshtml" Line="15" Column="49" />
       <File FileName="HealthySnacks.DataAccess/Entities/HealhtySnacks.cs" />
-      <File FileName="HealthySnacks/wwwroot/css/HomePageStyle.css" Line="1" Column="1" />
+      <File FileName="HealthySnacks/wwwroot/css/HomePageStyle.css" Line="4" Column="30" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
